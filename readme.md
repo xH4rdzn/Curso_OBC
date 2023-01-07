@@ -1,11 +1,14 @@
-<h1>Módulo 1 - Lógica de programação - Curso OBC</h1>
+<h1 align="center"> Javascript I - Lógica de programação </h1>
 
-## Javascript
+# 01-05-2023
 
-### Added:
-
-## add: readme.md
+<ul>
+<li>Criando repositorio e uma branch</li>
+<li>Adicionando arquivos do primeiro exercicio</li>
+</ul>
 
 # 01-07-2023
-
-## add: new branch: js_1_exercicio_2
+<ul>
+  <li>Adicionando arquivos do exercicio 2</li>
+  <li>Update no arquivo readme.md</li>
+</ul>
